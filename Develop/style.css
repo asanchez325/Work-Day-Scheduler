@@ -13,9 +13,14 @@ textarea{
   padding: 10px;
 }
 
+input {
+  width: 100%;
+  text-align: center;
+}
+
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: rgb(148, 211, 189);
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
@@ -34,6 +39,11 @@ textarea{
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
+}
+
+input {
+  width: 100%;
+  text-align: center;
 }
 
 .hour {
