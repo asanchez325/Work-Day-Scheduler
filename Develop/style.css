@@ -21,6 +21,11 @@ textarea{
   border-bottom: 10px solid black;
 }
 
+.lead {
+  text-align:center;
+  color: black;
+}
+
 .description{
   white-space: pre-wrap;
 }
