@@ -13,11 +13,6 @@ textarea{
   padding: 10px;
 }
 
-input {
-  width: 100%;
-  text-align: center;
-}
-
 .jumbotron {
   text-align: center;
   background-color: rgb(148, 211, 189);
@@ -28,6 +23,11 @@ input {
 
 .description{
   white-space: pre-wrap;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 55px auto 35px; 
 }
 
 .time-block{
