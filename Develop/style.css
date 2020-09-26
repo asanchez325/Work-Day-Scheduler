@@ -21,11 +21,6 @@ textarea{
   border-bottom: 10px solid black;
 }
 
-.lead {
-  text-align:center;
-  color: black;
-}
-
 .description{
   white-space: pre-wrap;
 }
@@ -82,5 +77,6 @@ input {
 
 .saveBtn i:hover {
   font-size: 20px;
+  background-color: black;
   transition: all .3s ease-in-out;
 }
